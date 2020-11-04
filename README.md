@@ -1,2 +1,2 @@
-# websitedesign.github
+# websitedesign.github.io
 Exercise of website design course
